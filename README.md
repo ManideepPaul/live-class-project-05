@@ -1,4 +1,4 @@
-### Manideep Paul 
+## Manideep Paul 
 
 <br>
 
@@ -9,9 +9,17 @@ I was having trouble choosing "Apps" to add a drop-down symbol after it, but aft
 
 <br>
 
+### Live link
+
 - [Click me](https://live-class-project-05.vercel.app/) to view the project.
 
 ![HTML](https://img.shields.io/badge/-HTML-D4F6CC?logo=HTML5)
 ![HTML](https://img.shields.io/badge/-CSS%20-1572B6?logo=CSS3)
 
 **Used in Project**
+
+<br>
+
+### Preview
+
+![screeenshot](./screenshot-05.png)
